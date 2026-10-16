@@ -17,6 +17,9 @@
   <a href="https://thoughtparameters.com"><img src="https://img.shields.io/badge/Website-thoughtparameters.com-1D4ED8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
   <a href="https://www.linkedin.com/company/thoughtparameters/"><img src="https://img.shields.io/badge/LinkedIn-Follow-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.facebook.com/thoughtparameters"><img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="https://x.com/thoughtparams"><img src="https://img.shields.io/badge/X-@thoughtparams-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://www.instagram.com/thoughtparametersllc/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.threads.com/@thoughtparametersllc"><img src="https://img.shields.io/badge/Threads-Follow-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"></a>
   <a href="tel:+18888751399"><img src="https://img.shields.io/badge/Free_consult-1_(888)_875--1399-F97316?style=for-the-badge&logo=phone&logoColor=white" alt="Call 1 (888) 875-1399"></a>
 </p>
 
