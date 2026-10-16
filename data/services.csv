@@ -1,0 +1,13 @@
+Service,What You Get,Typical Stack,Engagement
+Custom Software Development,"Web, mobile, and desktop apps and APIs shipped with CI/CD and tests from the first commit","Python (Flask, FastAPI), Go, JavaScript, Gatsby, PostgreSQL","Project or embedded team"
+Legacy Modernization,"Re-platform aging apps onto containers or serverless without a risky big-bang rewrite","Docker, Kubernetes, AWS Lambda, Terraform","Phased project"
+DevOps & CI/CD,"Pipelines that build, test, scan, and deploy on every merge","GitHub Actions, Jenkins, self-hosted runners, Container Registry","Sprint or retainer"
+Infrastructure as Code,"Reviewed, repeatable cloud environments with zero configuration drift","Terraform, Ansible, Puppet, CloudFormation","Project"
+Cloud Management,"AWS and Google Cloud landing zones, migrations, and day-2 operations","AWS, Google Cloud (GKE), Cloudflare","Retainer"
+Cloud Cost Reduction,"FinOps review with concrete account consolidation and right-sizing cuts","AWS, GCP billing, tagging, budgets","Fixed-scope assessment"
+Site Reliability & Observability,"SLOs, alerting, dashboards, and runbooks so issues surface before customers notice","Splunk, Elasticsearch / Kibana, Prometheus, Grafana, New Relic, CloudWatch, Zabbix","Project or retainer"
+Cybersecurity & Information Security,"Security audits, hardening, IAM, and vulnerability management","CIS Benchmarks, IAM, WAF, Orca, Tenable","Assessment and remediation"
+Compliance Readiness,"SOC 2 and HIPAA readiness with controls and evidence built into the pipeline","DevSecOps, audit logging, policy as code","Readiness program"
+Computer Networking & Network Support,"Site-to-site VPN, routing, DNS, load balancing, and high availability","IPsec, BGP, MikroTik, Nginx, HAProxy, Keepalived / VRRP","Project or support"
+Software Testing,"Automated unit, integration, and browser tests wired into CI","Pytest, RSpec, Selenium, LocalStack","Project"
+IT Consulting,"Senior technical advice on architecture, tooling, and hiring","Vendor-neutral","Hourly or advisory"

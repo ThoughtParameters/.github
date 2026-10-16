@@ -1,0 +1,50 @@
+Category,Technology
+Cloud,Amazon Web Services (AWS)
+Cloud,Google Cloud (GCP / GKE)
+Cloud,Microsoft Azure
+Cloud,Cloudflare (DNS / CDN / Pages / WAF)
+Cloud,GitHub Pages
+Infrastructure as Code,Terraform
+Infrastructure as Code,AWS CloudFormation
+Configuration Management,Ansible
+Configuration Management,Puppet
+Containers,Docker / Docker Hub / Container Registry
+Containers,Kubernetes
+CI/CD,GitHub Actions (incl. self-hosted runners)
+CI/CD,Jenkins
+Observability,Splunk
+Observability,Kibana / Elasticsearch
+Observability,New Relic
+Observability,Amazon CloudWatch
+Observability,Syslog / Fluent Bit
+Observability,Zabbix
+Web & Networking,Nginx
+Web & Networking,Apache
+Web & Networking,HAProxy / Load Balancers
+Web & Networking,Keepalived / VRRP
+Web & Networking,DNS / Certbot / TLS
+Web & Networking,"IPsec / BGP / VPN"
+Languages,Python
+Languages,Go (Golang)
+Languages,Ruby
+Languages,JavaScript
+Languages,Java
+Languages,Bash
+Frameworks,Flask
+Frameworks,FastAPI
+Frameworks,Gatsby
+Frameworks,Bootstrap 5
+Frameworks,Tomcat / JBoss / WebLogic
+Data,PostgreSQL
+Data,MySQL
+Data,Redis
+Testing,Pytest
+Testing,RSpec
+Testing,Selenium
+Testing,LocalStack
+Tooling,Poetry
+Tooling,Sphinx
+Tooling,Systemd
+Tooling,Jira / Confluence
+AI,Claude Code / Amazon Bedrock / MCP
+AI,ChatGPT / Gemini / Ollama
