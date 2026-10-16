@@ -95,7 +95,7 @@ We don't hand off a slide deck and leave. We ship working software, automate the
 
 | Product | What it is | Built with |
 | :-- | :-- | :-- |
-| **[SyntaxRoot](https://syntaxroot.cc)** | ITSM and CMDB for lean IT teams and MSPs: incident, problem, and change management, a CMDB with relationship mapping and cloud discovery, SLA tracking, a knowledge base, and real-time notifications. Priced for teams that aren't enterprises. | AWS Lambda, API Gateway, RDS PostgreSQL, Terraform, GitHub Actions, Cloudflare |
+| **[SyntaxRoot](https://syntaxroot.cc)**<br><sub>[GitHub](https://github.com/syntaxroot-cc) · invite-only</sub> | ITSM and CMDB for lean IT teams and MSPs: incident, problem, and change management, a CMDB with relationship mapping and cloud discovery, SLA tracking, a knowledge base, and real-time notifications. Priced for teams that aren't enterprises. | AWS Lambda, API Gateway, RDS PostgreSQL, Terraform, GitHub Actions, Cloudflare |
 | **[Subnet Calculator](https://subnet.thoughtparameters.com)** | Free IPv4/IPv6 subnet calculator for network and cloud engineers | Gatsby, Cloudflare Pages |
 
 > **Need a team that can design, build, and operate software like this?** That's exactly what we do. [Let's talk.](https://thoughtparameters.com)
