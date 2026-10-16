@@ -9,7 +9,9 @@ Thought Parameters takes the security of our software and our clients seriously.
 Report vulnerabilities privately through either channel:
 
 - GitHub: use **"Report a vulnerability"** on the repository's **Security** tab (private vulnerability reporting)
-- Email: **hello@thoughtparameters.com** with the subject line `SECURITY`
+- Email: **[security@thoughtparameters.com](mailto:security@thoughtparameters.com)**
+
+Please send only security reports to this address. For anything else, use **hello@thoughtparameters.com**.
 
 Please include the affected repository, version or commit, steps to reproduce, and the impact you observed.
 
