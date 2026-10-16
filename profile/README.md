@@ -16,7 +16,7 @@
 <p align="center">
   <a href="https://thoughtparameters.com"><img src="https://img.shields.io/badge/Website-thoughtparameters.com-1D4ED8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
   <a href="https://www.linkedin.com/company/thoughtparameters/"><img src="https://img.shields.io/badge/LinkedIn-Follow-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.facebook.com/profile.php?id=61563722500393"><img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="https://www.facebook.com/thoughtparameters"><img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
   <a href="tel:+18888751399"><img src="https://img.shields.io/badge/Free_consult-1_(888)_875--1399-F97316?style=for-the-badge&logo=phone&logoColor=white" alt="Call 1 (888) 875-1399"></a>
 </p>
 
