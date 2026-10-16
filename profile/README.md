@@ -31,7 +31,7 @@
 
 ## 📇 Contents
 
-[Who We Are](#-who-we-are) · [Services](#%EF%B8%8F-what-we-do) · [Products](#-what-weve-built) · [How We Work](#-how-we-work) · [Technology](#-technology) · [Team](#-team) · [Open Source](#-open-source) · [Contact](#-start-a-project)
+[Who We Are](#-who-we-are) · [Services](#%EF%B8%8F-what-we-do) · [Products](#-what-weve-built) · [How We Work](#-how-we-work) · [Technology](#%EF%B8%8F-technology) · [Team](#-team) · [Open Source](#-open-source) · [Contact](#-start-a-project)
 
 ---
 
